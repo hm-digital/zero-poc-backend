@@ -1,0 +1,135 @@
+{
+  "topic": "openclaw",
+  "date": "2026-02-21",
+  "generatedAt": "2026-02-21T23:57:35.363Z",
+  "cards": [
+    {
+      "id": "44f6eff75b23",
+      "topic": "openclaw",
+      "title": "openclaw 2026.2.21",
+      "whatChanged": "A new release introduces updates affecting agent workflows.",
+      "whyItMatters": "High-signal updates about OpenClaw, agent frameworks, tool calling, orchestration.",
+      "confidence": 3,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "GitHub Release v2026.2.21",
+          "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.21",
+          "publishedAt": "2026-02-21T16:56:48Z"
+        }
+      ]
+    },
+    {
+      "id": "7dfbbf68fd4d",
+      "topic": "openclaw",
+      "title": "openclaw 2026.2.19",
+      "whatChanged": "A new release introduces updates affecting agent workflows.",
+      "whyItMatters": "High-signal updates about OpenClaw, agent frameworks, tool calling, orchestration.",
+      "confidence": 3,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "GitHub Release v2026.2.19",
+          "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.19",
+          "publishedAt": "2026-02-19T17:35:21Z"
+        }
+      ]
+    },
+    {
+      "id": "27aa73585229",
+      "topic": "openclaw",
+      "title": "openclaw 2026.2.17",
+      "whatChanged": "A new release introduces updates affecting agent workflows.",
+      "whyItMatters": "High-signal updates about OpenClaw, agent frameworks, tool calling, orchestration.",
+      "confidence": 3,
+      "impact": 2,
+      "sources": [
+        {
+          "label": "GitHub Release v2026.2.17",
+          "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.17",
+          "publishedAt": "2026-02-18T02:55:29Z"
+        }
+      ]
+    },
+    {
+      "id": "b4e173100fda",
+      "topic": "openclaw",
+      "title": "openclaw 2026.2.15",
+      "whatChanged": "A new release introduces updates affecting agent workflows.",
+      "whyItMatters": "High-signal updates about OpenClaw, agent frameworks, tool calling, orchestration.",
+      "confidence": 3,
+      "impact": 1,
+      "sources": [
+        {
+          "label": "GitHub Release v2026.2.15",
+          "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.2.15",
+          "publishedAt": "2026-02-16T04:43:47Z"
+        }
+      ]
+    },
+    {
+      "id": "8795e17e859b",
+      "topic": "openclaw",
+      "title": "refactor: unify discord listener slow-log flow and test helpers",
+      "whatChanged": "Recent development activity signals ongoing changes to the project.",
+      "whyItMatters": "High-signal updates about OpenClaw, agent frameworks, tool calling, orchestration.",
+      "confidence": 2,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "GitHub Commit",
+          "url": "https://github.com/openclaw/openclaw/commit/150c048b0a70f3a9ab9f92e7a50cf83498c0c19b",
+          "publishedAt": "2026-02-21T23:44:28Z"
+        }
+      ]
+    },
+    {
+      "id": "515dc3c13113",
+      "topic": "openclaw",
+      "title": "test(actions): table-drive discord presence mappings",
+      "whatChanged": "Recent development activity signals ongoing changes to the project.",
+      "whyItMatters": "High-signal updates about OpenClaw, agent frameworks, tool calling, orchestration.",
+      "confidence": 2,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "GitHub Commit",
+          "url": "https://github.com/openclaw/openclaw/commit/f589295a0ab8e7b6b6bf00ce8ddb5229b7d8e564",
+          "publishedAt": "2026-02-21T23:44:01Z"
+        }
+      ]
+    },
+    {
+      "id": "e08b3c5eb51d",
+      "topic": "openclaw",
+      "title": "test(actions): table-drive discord reaction and permission cases",
+      "whatChanged": "Recent development activity signals ongoing changes to the project.",
+      "whyItMatters": "High-signal updates about OpenClaw, agent frameworks, tool calling, orchestration.",
+      "confidence": 2,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "GitHub Commit",
+          "url": "https://github.com/openclaw/openclaw/commit/0afd5d38c535b36904daeebf360bb570b56c0380",
+          "publishedAt": "2026-02-21T23:42:43Z"
+        }
+      ]
+    },
+    {
+      "id": "f8e70fd313cd",
+      "topic": "openclaw",
+      "title": "test(actions): table-drive slack and telegram action cases",
+      "whatChanged": "Recent development activity signals ongoing changes to the project.",
+      "whyItMatters": "High-signal updates about OpenClaw, agent frameworks, tool calling, orchestration.",
+      "confidence": 2,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "GitHub Commit",
+          "url": "https://github.com/openclaw/openclaw/commit/2595690a4d0372e29e920ba66208873b9c998735",
+          "publishedAt": "2026-02-21T23:41:40Z"
+        }
+      ]
+    }
+  ]
+}
