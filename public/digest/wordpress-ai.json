@@ -1,0 +1,135 @@
+{
+  "topic": "wordpress-ai",
+  "date": "2026-02-21",
+  "generatedAt": "2026-02-21T23:46:07.617Z",
+  "cards": [
+    {
+      "id": "fbfb57644c93",
+      "topic": "wordpress-ai",
+      "title": "0.3.0",
+      "whatChanged": "A new release introduces updates affecting agent workflows.",
+      "whyItMatters": "High-signal updates about AI in WordPress: Gutenberg AI blocks, plugins, official WordPress AI initiatives, and tooling for developers and site builders.",
+      "confidence": 3,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "GitHub Release 0.3.0",
+          "url": "https://github.com/WordPress/ai/releases/tag/0.3.0",
+          "publishedAt": "2026-02-09T17:47:43Z"
+        }
+      ]
+    },
+    {
+      "id": "7407dd0eea51",
+      "topic": "wordpress-ai",
+      "title": "0.2.0",
+      "whatChanged": "A new release introduces updates affecting agent workflows.",
+      "whyItMatters": "High-signal updates about AI in WordPress: Gutenberg AI blocks, plugins, official WordPress AI initiatives, and tooling for developers and site builders.",
+      "confidence": 3,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "GitHub Release 0.2.0",
+          "url": "https://github.com/WordPress/ai/releases/tag/0.2.0",
+          "publishedAt": "2026-01-20T23:33:19Z"
+        }
+      ]
+    },
+    {
+      "id": "1b144a89904b",
+      "topic": "wordpress-ai",
+      "title": "WordPress 7.0 Beta 1 delayed",
+      "whatChanged": "A notable publication covers developments in AI tooling and agents.",
+      "whyItMatters": "High-signal updates about AI in WordPress: Gutenberg AI blocks, plugins, official WordPress AI initiatives, and tooling for developers and site builders.",
+      "confidence": 1,
+      "impact": 3,
+      "sources": [
+        {
+          "label": "Make WordPress Core",
+          "url": "https://make.wordpress.org/core/2026/02/19/wordpress-7-0-beta-1-delayed/",
+          "publishedAt": "Thu, 19 Feb 2026 20:17:42 +0000"
+        }
+      ]
+    },
+    {
+      "id": "b3e8c8fde16c",
+      "topic": "wordpress-ai",
+      "title": "0.3.1",
+      "whatChanged": "A new release introduces updates affecting agent workflows.",
+      "whyItMatters": "High-signal updates about AI in WordPress: Gutenberg AI blocks, plugins, official WordPress AI initiatives, and tooling for developers and site builders.",
+      "confidence": 3,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "GitHub Release 0.3.1",
+          "url": "https://github.com/WordPress/ai/releases/tag/0.3.1",
+          "publishedAt": "2026-02-18T14:49:54Z"
+        }
+      ]
+    },
+    {
+      "id": "744c339ebb72",
+      "topic": "wordpress-ai",
+      "title": "22.5.1",
+      "whatChanged": "A new release introduces updates affecting agent workflows.",
+      "whyItMatters": "High-signal updates about AI in WordPress: Gutenberg AI blocks, plugins, official WordPress AI initiatives, and tooling for developers and site builders.",
+      "confidence": 3,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "GitHub Release v22.5.1",
+          "url": "https://github.com/WordPress/gutenberg/releases/tag/v22.5.1",
+          "publishedAt": "2026-02-10T08:11:48Z"
+        }
+      ]
+    },
+    {
+      "id": "62bc467dfea0",
+      "topic": "wordpress-ai",
+      "title": "X-post: Content Guidelines: A Gutenberg Experiment",
+      "whatChanged": "A notable publication covers developments in AI tooling and agents.",
+      "whyItMatters": "High-signal updates about AI in WordPress: Gutenberg AI blocks, plugins, official WordPress AI initiatives, and tooling for developers and site builders.",
+      "confidence": 1,
+      "impact": 0,
+      "sources": [
+        {
+          "label": "Make WordPress Core",
+          "url": "https://make.wordpress.org/core/2026/02/04/xpost-content-guidelines-a-gutenberg-experiment/",
+          "publishedAt": "Wed, 04 Feb 2026 03:01:53 +0000"
+        }
+      ]
+    },
+    {
+      "id": "ebb5a09f61e8",
+      "topic": "wordpress-ai",
+      "title": "0.2.1",
+      "whatChanged": "A new release introduces updates affecting agent workflows.",
+      "whyItMatters": "High-signal updates about AI in WordPress: Gutenberg AI blocks, plugins, official WordPress AI initiatives, and tooling for developers and site builders.",
+      "confidence": 3,
+      "impact": 1,
+      "sources": [
+        {
+          "label": "GitHub Release 0.2.1",
+          "url": "https://github.com/WordPress/ai/releases/tag/0.2.1",
+          "publishedAt": "2026-01-26T19:22:31Z"
+        }
+      ]
+    },
+    {
+      "id": "e3622289c80f",
+      "topic": "wordpress-ai",
+      "title": "WordPress Playground testing ZIP artifacts",
+      "whatChanged": "A new release introduces updates affecting agent workflows.",
+      "whyItMatters": "High-signal updates about AI in WordPress: Gutenberg AI blocks, plugins, official WordPress AI initiatives, and tooling for developers and site builders.",
+      "confidence": 3,
+      "impact": 2,
+      "sources": [
+        {
+          "label": "GitHub Release ci-artifacts",
+          "url": "https://github.com/WordPress/ai/releases/tag/ci-artifacts",
+          "publishedAt": "2026-01-13T18:57:26Z"
+        }
+      ]
+    }
+  ]
+}
